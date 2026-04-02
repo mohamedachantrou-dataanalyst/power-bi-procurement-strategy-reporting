@@ -1,0 +1,22 @@
+Analyse : 
+
+- Fiabilité des fournisseurs :
+    - OTD au dessous de la Target toute l’année avec une diminution par rapport à l’année précédente
+    - Zenith Corp le pire des fournisseurs en terme de OTD (71% avec une moyenne de retard de 2 jours vs target l’année dernière et une moyenne de retard de 1jour)
+    - Qualité : Solaris Manufacturing est le pire des fournisseurs en termes de qualité (1/4 des commandes présente un problème de qualité)
+    - Quantité manquante : Quantum Industries est le pire des fournisseurs en termes de quantité manquante (11% des commandes présente un manque de quantité)
+    - Infinity components est dans la zone de danger : beaucoup de problème de qualité & problèmes de quantité manquante & OTD bas
+
+- Impact sur les opérations internes
+    - %Commandes avec problèmes (manque, qualité, retard) est presque le même que les année dernière ( Polaris Supply & Solaris Manufacturing sont les pires dans ce critère avec plus de 70% des commandes avec problèmes)
+    - %Commandes nécessitant un travail supp a augmenté en 2025 et a atteint les 13% avec une moyenne de 2,5 heures supp par commande (Polaris Supply & Alpha Industries les pires fournisseur en termes de ce critère)
+    - Une légère augmentation de commandes gérées en urgence (20% Nexus Supply le pire dans ce critère) et commandes nécessitant des interventions manuelles (tout les fournisseurs sont aux alentours de 50%)
+
+- Impact sur la satisfaction client
+    - OTD de 56% en 2025( une baisse par rapport aux années précédentes)
+    - 32% des commandes retardées à cause des fournisseurs
+    - AVG retard pour les commandes avec cause fournisseur présente plus de 2 jours contre 0,5 jours en moyenne des retards pour les commandes retardées pour les autres raisons
+
+- Impact sur la rentabilité
+    - Amélioration en termes de pénalités payées : 305 pénalité payées sur 1150 commandes en 2025 contre 337 sur presque le même nombre de commandes en 2024 (Solaris Manufacturing & Delta Industrial sont les pires en termes de ce critère presque 40% des commandes sont pénalisées en 2025)
+    - Solaris Manufacturing & Delta Industrial sont les fournisseurs qui ont payé des gros parts en pénalités 7,2% et 6,6% respectivement
