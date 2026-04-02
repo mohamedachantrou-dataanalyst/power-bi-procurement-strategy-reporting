@@ -1,4 +1,4 @@
-# Procurement Strategy Performance Analysis
+# Évaluation et optimisation de la stratégie d’achats via un reporting analytique Power BI
 
 **Secteur :** Purchasing · Supply Chain · Finance · Customer Service 
 
@@ -153,15 +153,12 @@ Le projet comprend :
 - Comparaison multicritères des fournisseurs
 - Évaluation finale
 
-| Page principale |
-|-----------------|
-| ![](Rapport/ReportNavigationPage.png) |
 
 | Fiabilité fournisseurs | Impact opérations | Satisfaction client |
 |------------------------|------------------|--------------------|
 | ![](Rapport/SuppliersReliability.png) | ![](Rapport/InternalOperationsImpact.png) | ![](Rapport/CustomerSatisfactionImpact.png) |
 
-| Rentabilité | Comparaison fournisseurs | Dashboard décisionnel |
+| Rentabilité | Comparaison fournisseurs | Evaluation finale |
 |-------------|-------------------------|----------------------|
 | ![](Rapport/ProfitabilityImpact.png) | ![](Rapport/SuppliersComparison.png) | ![](Rapport/FinalEvaluation.png) |
 
@@ -239,7 +236,7 @@ L'analyse met en évidence plusieurs actions prioritaires.
 │   └──SuppliersComparison.png
 │   └──FinalEvaluation.png
 ├── Dashboard/
-    └── FinalDashboard.png
+    └── FinalDashboard.pdf
 ```
 
 ---
