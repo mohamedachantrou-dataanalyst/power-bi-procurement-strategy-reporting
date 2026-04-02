@@ -210,6 +210,7 @@ L'analyse met en évidence plusieurs actions prioritaires.
 
 ## Structure du repository
 
+```
 ├── README.md
 ├── Data/
 │    └── DataModel.png  
@@ -225,6 +226,7 @@ L'analyse met en évidence plusieurs actions prioritaires.
 │   └──FinalEvaluation.png
 ├── Dashboard/
     └── FinalDashboard.png
+```
 
 ---
 
