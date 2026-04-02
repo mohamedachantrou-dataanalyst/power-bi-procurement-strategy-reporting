@@ -81,6 +81,8 @@ Le projet repose sur 3 tables **dimensions** liées avec 2 tables **facts** **(M
 ``delay``
 ``delay_reason``
 
+![Description de l'image](Data/DataModel.png)
+
 ---
 
 ## Axes d'analyse
@@ -150,6 +152,18 @@ Le projet comprend :
 - Impact sur la rentabilité
 - Comparaison multicritères des fournisseurs
 - Évaluation finale
+
+| Page principale |
+|-----------------|
+| ![](Rapport/ReportNavigationPage.png) |
+
+| Fiabilité fournisseurs | Impact opérations | Satisfaction client |
+|------------------------|------------------|--------------------|
+| ![](Rapport/SuppliersReliability.png) | ![](Rapport/InternalOperationsImpact.png) | ![](Rapport/CustomerSatisfactionImpact.png) |
+
+| Rentabilité | Comparaison fournisseurs | Dashboard décisionnel |
+|-------------|-------------------------|----------------------|
+| ![](Rapport/ProfitabilityImpact.png) | ![](Rapport/SuppliersComparison.png) | ![](Rapport/FinalEvaluation.png) |
 
 **2️⃣ Un tableau de bord contenanant des insights clès** :
 
@@ -231,3 +245,6 @@ L'analyse met en évidence plusieurs actions prioritaires.
 ---
 
 ## Résultat
+
+| ![](Rapport/SuppliersComparison.png) | ![](Rapport/FinalEvaluation.png) |
+|---|---|
