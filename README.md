@@ -164,7 +164,7 @@ Le projet comprend :
 
 **2️⃣ Un tableau de bord contenanant des insights clès** :
 
-
+[Tableau de bord](Dashboard/FinalDashboard.pdf)
 
 ---
 
@@ -186,7 +186,7 @@ En 2025 :
 - seulement **56% des commandes clients sont livrées à temps**
 - **32% des retards sont liés aux fournisseurs**.
 
-  Voir l'analyse complète !
+[Voir l'analyse complète !](Analyse.txt)
 
 ---
 
@@ -215,7 +215,7 @@ L'analyse met en évidence plusieurs actions prioritaires.
 - maintien d'une politique de pénalités stricte
 - transfert progressif du volume vers les fournisseurs les plus fiables.
 
-  Voir l'ensemble des recommandations !
+[Voir l'ensemble des recommandations !](Recommandations.txt)
 
 ---
 
